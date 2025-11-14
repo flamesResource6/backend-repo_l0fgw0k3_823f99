@@ -1,0 +1,78 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [164] using StatReload
+INFO:     Started server process [166]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:45786 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:45772 - "POST /seed HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45758 - "POST /seed HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45758 - "GET /cards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45772 - "GET /cards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56684 - "POST /seed HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56690 - "POST /seed HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56690 - "GET /cards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56684 - "GET /cards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38598 - "OPTIONS /player HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38598 - "POST /player HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38598 - "OPTIONS /match/start HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38598 - "POST /match/start HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38616 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56182 - "OPTIONS /match/deploy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/deploy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56182 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56192 - "POST /match/deploy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56192 - "POST /match/deploy HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40622 - "POST /match/deploy HTTP/1.1" 400 Bad Request
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40638 - "POST /match/deploy HTTP/1.1" 400 Bad Request
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40638 - "POST /match/deploy HTTP/1.1" 400 Bad Request
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40638 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/deploy HTTP/1.1" 400 Bad Request
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "GET /match/state/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38614 - "POST /match/tick/6916ce2681cc7222a20b0ddd HTTP/1.1" 200 OK
